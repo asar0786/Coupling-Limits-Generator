@@ -11,4 +11,3 @@ FM1        [-15.0,15.0]      0.5
 FM6        [-10.0,10.0]      0.2
 FM7        [-25.0,25.0]      0.5
 
-Commented above table in version1
